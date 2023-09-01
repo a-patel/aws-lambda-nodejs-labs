@@ -3,6 +3,19 @@
 
 
 
+[Awesome Cloud](https://medium.com/awesome-cloud) - AWS blogs! A must-read publication for aspiring AWS Architects, Developers & DevOps enthusiasts!
+
+---
+
+
+## AWS Labs
+
+
+
+
+
+#### [Amazon EKS AWS CDK Workshop](https://github.com/a-patel/aws-cdk-typescript-aws-eks-workshop)
+
 
 
 
@@ -11,7 +24,7 @@
 
 
 ## Give a Star! :star:
-Feel free to request an issue on github if you find bugs or request a new feature. Your valuable feedback is much appreciated to better improve this project. If you find this useful, please give it a star to show your support for this project.
+Feel free to request an issue on GitHub if you find bugs or request a new feature. Your valuable feedback is much appreciated to improve this project better. If you find this helpful, please give it a star to support this project.
 
 
 ## Support :telephone:
